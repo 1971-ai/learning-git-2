@@ -24,5 +24,7 @@
     "nu-html-checker": "^0.1.0",
     "onchange": "^4.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "rimraf": "^2.6.2"
+  }
 }
